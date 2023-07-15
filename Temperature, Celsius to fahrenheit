@@ -1,0 +1,6 @@
+# temperature celsius to fahrenheit calculation
+A=int(input())
+# fahrenheit calculation formula
+f=(A*9/5)+32
+print(f)
+
